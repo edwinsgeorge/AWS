@@ -1,0 +1,4 @@
+Hello
+
+This is my first Git practice file.
+I created this file to test Git add, commit and push commands.
